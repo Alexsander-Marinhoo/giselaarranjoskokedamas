@@ -1,0 +1,85 @@
+@import "tailwindcss";
+
+@theme {
+  --color-lotus-pink: #dc288b;
+  --color-lotus-softpink: #f75bb6;
+  --color-lotus-purple: #8e2038;
+  --color-lotus-darkpurple: #5c0457;
+  --color-whatsapp: #25D366;
+  --color-whatsapp-hover: #1ebd59;
+  --color-offwhite: #faf8f5;
+  --color-cream: #f4efe6;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+}
+
+/* Lenis Smooth Scroll CSS */
+html.lenis, html.lenis body {
+  height: auto;
+}
+
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}
+
+/* Custom Accessibility Focus Styles */
+*:focus-visible {
+  outline: 3px solid #dc288b;
+  outline-offset: 2px;
+}
+
+/* Infinite Marquee Animation (Right to Left) */
+@keyframes marquee {
+  0% {
+    transform: translateX(0%);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-marquee {
+  display: flex;
+  width: max-content;
+  animation: marquee 30s linear infinite;
+}
+
+/* Background Textures & Patterns */
+.bg-dot-pattern {
+  background-image: radial-gradient(rgba(220, 40, 139, 0.12) 1px, transparent 1px);
+  background-size: 24px 24px;
+}
+
+.bg-dot-pattern-light {
+  background-image: radial-gradient(rgba(220, 40, 139, 0.07) 1.2px, transparent 1.2px);
+  background-size: 28px 28px;
+}
+
+.bg-mesh-glow {
+  background-image: 
+    radial-gradient(circle at 15% 20%, rgba(247, 91, 182, 0.12) 0%, transparent 45%),
+    radial-gradient(circle at 85% 75%, rgba(220, 40, 139, 0.10) 0%, transparent 45%);
+}
+
+/* Hide Scrollbar for Horizontal Touch Swiping */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+
+
