@@ -107,7 +107,6 @@ export default function Gallery() {
           {[
             { id: 'todos', label: 'Ver Todas' },
             { id: 'kokedamas', label: 'Kokedamas' },
-            { id: 'suculentas', label: 'Suculentas' },
             { id: 'artesanatos', label: 'Artesanatos' },
             { id: 'presentes', label: 'Kits Presente' },
           ].map((tab) => (
