@@ -5,16 +5,24 @@ import UnderlineSwoosh from './UnderlineSwoosh';
 
 const carouselImages = [
   {
-    src: '/assets/hero_kokedama_craft.png',
-    alt: 'Arranjo de Kokedama e Artesanato Gisela Arranjos',
+    src: '/assets/2144c9f9-15f9-4d80-9d00-0606298c18e3.png',
+    alt: 'Mini Kokedama de Suculenta no Suporte Gisela Arranjos',
   },
   {
-    src: '/assets/kokedama_hanging.png',
-    alt: 'Kokedama Japonesa Suspensa',
+    src: '/assets/1367b70a-2e2b-4450-9363-7f5747dd4c5b.png',
+    alt: 'Arranjo Floral Cerejeira e Garrafas Terracota Gisela Arranjos',
   },
   {
-    src: '/assets/suculentas_arranjo.png',
-    alt: 'Arranjo de Suculentas Artesanal',
+    src: '/assets/7a32c0b8-1043-4fc2-b303-ffbbb903da48.png',
+    alt: 'Coração Botânico com Mini Flores Gisela Arranjos',
+  },
+  {
+    src: '/assets/ca4c3fd8-adf7-4f15-ae19-098b5692dc62.png',
+    alt: 'Escultura Botânica KokeCoelha Gigi Gisela Arranjos',
+  },
+  {
+    src: '/assets/f409184a-11d9-41ac-b5c1-d562ddd6a74e.png',
+    alt: 'Kokedama Suculenta em Macramê Rosa Gisela Arranjos',
   },
 ];
 
