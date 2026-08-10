@@ -25,7 +25,7 @@ export default function AboutCraft() {
               <div className="absolute -inset-4 bg-gradient-to-r from-rose-200 to-purple-200 rounded-3xl blur-xl opacity-60"></div>
               <div className="relative rounded-3xl overflow-hidden shadow-xl border-4 border-white">
                 <img
-                  src="/assets/1367b70a-2e2b-4450-9363-7f5747dd4c5b.png"
+                  src="/assets/1367b70a-2e2b-4450-9363-7f5747dd4c5b.webp"
                   alt="Processo artesanal de confecção das Kokedamas e Arranjos da Gisela"
                   className="w-full h-[400px] sm:h-[480px] object-cover"
                 />

@@ -8,7 +8,7 @@ const categories = [
     title: 'Artesanatos & Decoração',
     icon: Palette,
     badge: 'Design Exclusivo',
-    image: '/assets/arranjo_floral_artesanato.png',
+    image: '/assets/arranjo_floral_artesanato.webp',
     description:
       'Peças manuais delicadas, composições florais e objetos decorativos que trazem textura, aconchego e elegância autêntica para interiores.',
     whatsappMessage: 'Olá Gisela! Gostaria de consultar as peças de artesanato e decoração disponíveis sob encomenda.',
@@ -19,7 +19,7 @@ const categories = [
     title: 'Kokedamas Japonesas',
     icon: Flower2,
     badge: 'Técnica Ancestral',
-    image: '/assets/kokedama_hanging.png',
+    image: '/assets/kokedama_hanging.webp',
     description:
       'A beleza das esferas de musgo natural com plantas vivas que flutuam no ambiente. A harmonia perfeita entre a tradição oriental e o design contemporâneo.',
     whatsappMessage: 'Olá Gisela! Tenho interesse nas Kokedamas e gostaria de escolher um modelo exclusivo.',
@@ -30,7 +30,7 @@ const categories = [
     title: 'Arranjos de Suculentas',
     icon: Sun,
     badge: 'Vida & Praticidade',
-    image: '/assets/suculentas_arranjo.png',
+    image: '/assets/suculentas_arranjo.webp',
     description:
       'Composições esculpidas em vasos cerâmicos artesanais. Plantas duráveis, resistentes e preparadas com substrato especial de longa duração.',
     whatsappMessage: 'Olá Gisela! Gostaria de encomendar um arranjo de suculentas personalizado para meu espaço.',
@@ -41,7 +41,7 @@ const categories = [
     title: 'Presentes & Mimos Afetivos',
     icon: Gift,
     badge: 'Experiência Afetiva',
-    image: '/assets/presente_personalizado.png',
+    image: '/assets/presente_personalizado.webp',
     description:
       'Kits artesanais personalizados com mensagens de carinho e detalhes botânicos criados sob medida para transformar datas especiais em memórias inesquecíveis.',
     whatsappMessage: 'Olá Gisela! Gostaria de montar um kit de presente personalizado para surpreender alguém especial.',

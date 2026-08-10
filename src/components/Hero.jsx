@@ -5,23 +5,23 @@ import UnderlineSwoosh from './UnderlineSwoosh';
 
 const carouselImages = [
   {
-    src: '/assets/2144c9f9-15f9-4d80-9d00-0606298c18e3.png',
+    src: '/assets/2144c9f9-15f9-4d80-9d00-0606298c18e3.webp',
     alt: 'Mini Kokedama de Suculenta no Suporte Gisela Arranjos',
   },
   {
-    src: '/assets/1367b70a-2e2b-4450-9363-7f5747dd4c5b.png',
+    src: '/assets/1367b70a-2e2b-4450-9363-7f5747dd4c5b.webp',
     alt: 'Arranjo Floral Cerejeira e Garrafas Terracota Gisela Arranjos',
   },
   {
-    src: '/assets/7a32c0b8-1043-4fc2-b303-ffbbb903da48.png',
+    src: '/assets/7a32c0b8-1043-4fc2-b303-ffbbb903da48.webp',
     alt: 'Coração Botânico com Mini Flores Gisela Arranjos',
   },
   {
-    src: '/assets/ca4c3fd8-adf7-4f15-ae19-098b5692dc62.png',
+    src: '/assets/ca4c3fd8-adf7-4f15-ae19-098b5692dc62.webp',
     alt: 'Escultura Botânica KokeCoelha Gigi Gisela Arranjos',
   },
   {
-    src: '/assets/f409184a-11d9-41ac-b5c1-d562ddd6a74e.png',
+    src: '/assets/f409184a-11d9-41ac-b5c1-d562ddd6a74e.webp',
     alt: 'Kokedama Suculenta em Macramê Rosa Gisela Arranjos',
   },
 ];
